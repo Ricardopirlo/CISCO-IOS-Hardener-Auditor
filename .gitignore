@@ -1,0 +1,13 @@
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Reportes locales generados (así el repositorio se mantiene limpio)
+Audit_Report.md
+
+# Archivos temporales de editores
+.vscode/
+.idea/
+.DS_Store

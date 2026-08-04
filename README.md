@@ -26,7 +26,7 @@ The tool validates critical baseline rules aligned with hardening frameworks:
 
 ## 🚀 Architecture & Overview
 
-
+![Suricata lab architecture diagram](Assets/Automated_Network_OS_Compliance_Audit.png)
 ---
 ### 📂 Directory Setup
 

@@ -24,6 +24,10 @@ The tool validates critical baseline rules aligned with hardening frameworks:
 
 ---
 
+## 🚀 Architecture & Overview
+
+
+---
 ### 📂 Directory Setup
 
 Clone the repository and ensure your local workspace matches this clean structure:
